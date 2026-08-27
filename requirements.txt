@@ -1,0 +1,3 @@
+calcboxlite==1.0 \
+    --hash=sha256:91c7b84867cbf9d32086eb243829f6fc51e6de751ad3e9512fb6fb2df2a1086c \
+    --hash=sha256:daae95ad04f5ec2d90751a222ef8f700119bf78ada9a0715938579e63a7c555a
